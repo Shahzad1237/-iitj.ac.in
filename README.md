@@ -1,1 +1,1 @@
-# -iitj.ac.in
+I am a research scholar at the Department of Metallurgical and Materials Engineering, Indian Institute Of Technology–Jodhpur, India. I am currently working on biomolecule detection through electrochemical methods. My interests include electrochemical sensors, food monitoring, conductive polymers, 2D materials and photodetectors.
